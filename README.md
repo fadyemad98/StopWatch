@@ -1,5 +1,5 @@
 # StopWatch
-Stop Watch using polling mechanism in STM32f103c8t6
+Stop Watch using polling mechanism in both STM32f103c8t6 and Tiva C Tm4c123gh6pm
 
 ## Requirments
 Implementation of an application that counts from 1 to 9 and increments each second using SysTick Timer on common cathode 7 segments.
