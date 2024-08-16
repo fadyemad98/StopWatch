@@ -1,0 +1,11 @@
+"./main.obj"
+"./sc4c1290kcpdt_startup_ccs.obj"
+"./HAL/PB/PB.obj"
+"./HAL/SSD/SSD.obj"
+"./MCAL/DIO/DIO_Program.obj"
+"./MCAL/RCC/PLL_Config.obj"
+"./MCAL/RCC/RCC_Program.obj"
+"./MCAL/SYSTICK/SYSTICK_Config.obj"
+"./MCAL/SYSTICK/SYSTICK_Program.obj"
+"../sc4c1290kcpdt.cmd"
+-llibc.a
